@@ -1,0 +1,2 @@
+# earthquakewatcher
+Live earthquake visualization
